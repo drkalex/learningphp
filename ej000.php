@@ -1,4 +1,4 @@
-<php>
+<html>
   <head>
     <title> Ejercicio 1 </title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
@@ -44,4 +44,4 @@ Entre los carriles se encuentra la jungla, una zona extensa y llena de monstruos
 echo "Hola!"
 
 ?>
-</php>
+</html>
