@@ -12,7 +12,7 @@ echo $introducion;
 ?>
 
 <hr>
-
+<!-- Las dos comillas " / " sirven para poner algo intermedio entre elprimer y segundo nombre -->
 <?php
 $primer_nombre = "Esneider";
 $segundo_nombre = "alexander";
@@ -23,7 +23,7 @@ echo $nombre;
 
 <hr>
 
-<!--"strlen" para medir la longitud de una cadena -->
+<!--"strlen" para medir la longitud de una cadena, cuenta el numero de caracteres de la linea-->
 <?php
 $String = "La longitud de esta cadena es de 47 caracteres.";
 echo strlen($String);

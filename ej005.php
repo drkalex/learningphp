@@ -14,5 +14,5 @@ $m = 2;
 $d = 4;
 $resultado = $m * $d;
 
-echo "La mult de $m y $d es = $resultado.$saltolinea";
+echo "La multiplicacion de $m y $d es = $resultado.$saltolinea";
 ?>
