@@ -1,7 +1,7 @@
 <?php
 // define una función llamada `sum`
 // recibe una lista de números como argumento.
-function sum($numbers) {
+function sumararray($numbers) {
   // inicializa la variable que devolveremos
     $sum = 0;
 
@@ -10,9 +10,13 @@ function sum($numbers) {
         $sum += $number;
     }
     // devolver la suma al usuario
-    return $sum;
+    return $sum ."<hr/>";
 }
 // Ejemplo de uso de la suma
-echo sum([1,2,3,4,5,6,7,8,9,10]);
+echo sumararray([1,2,3,4,5,6,7,8,9,10]);
+echo sumararray([1,2,3,4,5,6,7,8,9,10,7657]);
+echo sumararray([1,2,3,4,5,6,7,8,9,10,765467]);
+echo sumararray([1,2,3,4,5,6,7,8,9,10,987]);
+
+
 ?>
-<hr>

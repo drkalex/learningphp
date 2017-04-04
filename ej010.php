@@ -7,13 +7,13 @@ class Student {
     }
 
     public function say_name() {
-        echo "Mi nombre es  " . $this->nombre . " " . $this->apellido . ".\n";
+        return "Mi nombre es  " . $this->nombre . " " . $this->apellido . ".\n";
     }
 }
 $alex = new Student("Alexander", "Salazar");
-$alex->say_name();
+echo $alex->say_name();
 $esne = new Student("Esneider", "Campoverde");
-$esne->say_name();
+echo $esne->say_name();
 
 ?>
 <hr>
