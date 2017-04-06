@@ -8,6 +8,26 @@
 
       <p> <font color="white"> Portada  --> </font> <img src="cs_bg_champions.png" height="150" width="200">
       <hr>
+      <p> <font color="white"> ej020--> </font> <a href="http://localhost/esneider/ej021Get1.php"> <font color="white"> Ejercicios practica PHP.19 </font> </a> </p>
+      <hr>
+      <p> <font color="white"> ej019 --> </font> <a href="http://localhost/esneider/ej020.html"> <font color="white"> Ejercicios practica PHP.18 </font> </a> </p>
+      <hr>
+      <p> <font color="white"> ej018 --> </font> <a href="http://localhost/esneider/ej019.php"> <font color="white"> Ejercicios practica PHP.17 </font> </a> </p>
+      <hr>
+      <p> <font color="white"> ej017 --> </font> <a href="http://localhost/esneider/ej018.php"> <font color="white"> Ejercicios practica PHP.16 </font> </a> </p>
+      <hr>
+      <p> <font color="white"> Practica017.txt --> </font> <a href="http://localhost/esneider/practica017.txt"> <font color="white"> Ejercicios practica PHP.15 </font> </a> </p>
+      <hr>
+      <p> <font color="white"> ej016 --> </font> <a href="http://localhost/esneider/ej017.php"> <font color="white"> Ejercicios practica PHP.14 </font> </a> </p>
+      <hr>
+      <p> <font color="white"> ej015 --> </font> <a href="http://localhost/esneider/ej016.php"> <font color="white"> Ejercicios practica PHP.13 </font> </a> </p>
+      <hr>
+      <p> <font color="white"> ej014 --> </font> <a href="http://localhost/esneider/ej015.php"> <font color="white"> Ejercicios practica PHP.12 </font> </a> </p>
+      <hr>
+      <p> <font color="white"> ej013 --> </font> <a href="http://localhost/esneider/ej014.php"> <font color="white"> Ejercicios practica PHP.11 </font> </a> </p>
+      <hr>
+      <p> <font color="white"> ej012 --> </font> <a href="http://localhost/esneider/ej013.php"> <font color="white"> Ejercicios practica PHP.10 </font> </a> </p>
+      <hr>
       <p> <font color="white"> ej011 --> </font> <a href="http://localhost/esneider/ej012.php"> <font color="white"> Ejercicios practica PHP.9 </font> </a> </p>
       <hr>
       <p> <font color="white"> ej010 --> </font> <a href="http://localhost/esneider/ej011.php"> <font color="white"> Ejercicios practica PHP.8 </font> </a> </p>
