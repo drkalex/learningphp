@@ -1,14 +1,15 @@
+
+    <pr> Ej007.php sacaren pantalla una serie de bucles </pr>
+<hr>
 <?php
 $numeros_impares = [1,3,5,7,9,];
 for ($i = 0; $i < count($numeros_impares); $i=$i+1) {
     $numero_impar = $numeros_impares[$i];
     echo $numero_impar . "\n";
 }
-// saca en pantalla los numeros_impares de en 1
+// saca en pantalla los numeros_impares de  1 en 1
 ?>
-
 <hr>
-
 <?php
 $numeros_impares = [1,3,5,7,9];
 foreach ($numeros_impares as $numero_impar) {
@@ -16,31 +17,25 @@ foreach ($numeros_impares as $numero_impar) {
 }
 //foreach = "para cada" as = "con"
 ?>
-
 <hr>
-
 <?php
 $numeros_telefonos = [
   "Alex" => "62-800-4310",
-  "Jessica" => "68-122-406",
+  "Amanda" => "68-122-4066",
 ];
 
 foreach ($numeros_telefonos as $nombre => $numero) {
   echo "$nombre su numeros es $numero.\n";
 }
 ?>
-
 <hr>
-
 <?php
 $numeros_pares = [2,4,6,8,10,12,14,16,18,20];
 foreach ($numeros_pares as $numero_par) {
   echo $numero_par . "\n";
 }
 ?>
-
 <hr>
-
 <?php
 $contador = 0;
 
@@ -49,11 +44,8 @@ while ($contador < 10) {
     echo "Ejecutar - contador es $contador.\n";
 }
 // while = "mientras" saca en panta  (echo "Ejecutar - contador es $contador.\n";) con los numeros menores de 10
-
 ?>
-
 <hr>
-
 <?php
 $contador = 0;
 
@@ -69,9 +61,7 @@ while ($contador < 10) {
 }
 // The continue statement ="La instrucción continua"
 ?>
-
 <hr>
-
 <?php
 $contar = 0;
 

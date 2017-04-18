@@ -1,3 +1,13 @@
+<html>
+<head>
+  <title> Ej005.php </title>
+</head>
+<body>
+  <pr> Ej005.php sacar por pantalla el nombre y la edad, y realizar unas operaciones de sumay multiplicación </pr>
+  <center>
+    <table>
+      <tr>
+        <td>
 <?php
 $saltolinea = "<br/><hr/></br>";
 $nombre = "Alexander";
@@ -16,3 +26,9 @@ $resultado = $m * $d;
 
 echo "La multiplicacion de $m y $d es = $resultado.$saltolinea";
 ?>
+        </td>
+      </tr>
+    </table>
+  </center>
+</body>
+</html>

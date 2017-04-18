@@ -8,51 +8,50 @@
 
       <p> <font color="white"> Portada  --> </font> <img src="cs_bg_champions.png" height="150" width="200">
       <hr>
-      <p> <font color="white"> ej020--> </font> <a href="http://localhost/esneider/ej021Get1.php"> <font color="white"> Ejercicios practica PHP.19 </font> </a> </p>
+      <p> <font color="white"> ej020--> </font> <a href="http://localhost/esneider/layout.php?ejercicio=ej021Get1 practica PHP.19"> <font color="white"> Ejercicios practica PHP.19 </font> </a> </p>
       <hr>
-      <p> <font color="white"> ej019 --> </font> <a href="http://localhost/esneider/ej020.html"> <font color="white"> Ejercicios practica PHP.18 </font> </a> </p>
+      <p> <font color="white"> ej019 --> </font> <a href="http://localhost/esneider/layout.php?ejercicio=ej020.html"> <font color="white"> Ejercicios practica PHP.18 </font> </a> </p>
       <hr>
-      <p> <font color="white"> ej018 --> </font> <a href="http://localhost/esneider/ej019.php"> <font color="white"> Ejercicios practica PHP.17 </font> </a> </p>
+      <p> <font color="white"> ej018 --> </font> <a href="http://localhost/esneider/layout.php?ejercicio=ej019"> <font color="white"> Ej019.php sacar pòr pantalla el contenido del ejercicio ej017.php con otro comando distinto </font> </a> </p>
       <hr>
-      <p> <font color="white"> ej017 --> </font> <a href="http://localhost/esneider/ej018.php"> <font color="white"> Ejercicios practica PHP.16 </font> </a> </p>
+      <p> <font color="white"> ej017 --> </font> <a href="http://localhost/esneider/layout.php?ejercicio=ej018"> <font color="white"> Ej018.php sacar pòr pantalla el contenido del ejercicio ej017.php </font> </a> </p>
       <hr>
-      <p> <font color="white"> Practica017.txt --> </font> <a href="http://localhost/esneider/practica017.txt"> <font color="white"> Ejercicios practica PHP.15 </font> </a> </p>
+      <p> <font color="white"> ej016 --> </font> <a href="http://localhost/esneider/layout.php?ejercicio=ej017"> <font color="white"> Ej017.php crear una archivo nuevoy sacar por pantalla la informacion del archivo </font> </a> </p>
       <hr>
-      <p> <font color="white"> ej016 --> </font> <a href="http://localhost/esneider/ej017.php"> <font color="white"> Ejercicios practica PHP.14 </font> </a> </p>
+      <p> <font color="white"> ej015 --> </font> <a href="http://localhost/esneider/layout.php?ejercicio=ej016"> <font color="white"> Ej016.php hacer lo mismo que en el ej015.php solo que con comandos mas cortos  </font> </a> </p>
       <hr>
-      <p> <font color="white"> ej015 --> </font> <a href="http://localhost/esneider/ej016.php"> <font color="white"> Ejercicios practica PHP.13 </font> </a> </p>
+      <p> <font color="white"> ej014 --> </font> <a href="http://localhost/esneider/layout.php?ejercicio=ej015"> <font color="white"> Ej015.php sacar por pantalla la informacion que tengamos en el archivo creado del ej013.php </font> </a> </p>
       <hr>
-      <p> <font color="white"> ej014 --> </font> <a href="http://localhost/esneider/ej015.php"> <font color="white"> Ejercicios practica PHP.12 </font> </a> </p>
+      <p> <font color="white"> ej013 --> </font> <a href="http://localhost/esneider/layout.php?ejercicio=ej014"> <font color="white"> Ej014.php hacer lo mismo que en el ej013.php solo que con comandos mas cortos  </font> </a> </p>
       <hr>
-      <p> <font color="white"> ej013 --> </font> <a href="http://localhost/esneider/ej014.php"> <font color="white"> Ejercicios practica PHP.11 </font> </a> </p>
+      <p> <font color="white"> ej012 --> </font> <a href="http://localhost/esneider/layout.php?ejercicio=ej013"> <font color="white"> Ej013.php crear un archivo desde uno distinto e inctroducirle informacion etc.. </font> </a> </p>
       <hr>
-      <p> <font color="white"> ej012 --> </font> <a href="http://localhost/esneider/ej013.php"> <font color="white"> Ejercicios practica PHP.10 </font> </a> </p>
+      <p> <font color="white"> ej011 --> </font> <a href="http://localhost/esneider/layout.php?ejercicio=ej012"> <font color="white"> Ej012.php saca en pantalla toda la información que tengamos puesta para que salga en pantalla  </font> </a> </p>
       <hr>
-      <p> <font color="white"> ej011 --> </font> <a href="http://localhost/esneider/ej012.php"> <font color="white"> Ejercicios practica PHP.9 </font> </a> </p>
+      <p> <font color="white"> ej010 --> </font> <a href="http://localhost/esneider/layout.php?ejercicio=ej011"> <font color="white"> Ej011.php saca por pantalla el nombre y el apellido y realizauna suma y muestra su resultado </font> </a> </p>
       <hr>
-      <p> <font color="white"> ej010 --> </font> <a href="http://localhost/esneider/ej011.php"> <font color="white"> Ejercicios practica PHP.8 </font> </a> </p>
+      <p> <font color="white"> ej009 --> </font> <a href="http://localhost/esneider/layout.php?ejercicio=ej010"> <font color="white"> Ej010.php sacar por pantalla el nombre y el apellido de distintas personas  </font> </a> </p>
       <hr>
-      <p> <font color="white"> ej009 --> </font> <a href="http://localhost/esneider/ej010.php"> <font color="white"> Ejercicios practica PHP.7 </font> </a> </p>
+      <p> <font color="white"> ej008 --> </font> <a href="http://localhost/esneider/layout.php?ejercicio=ej009"> <font color="white"> Ej009.php traes la información del ejercicio 8, y realizar otra suma </font> </a> </p>
       <hr>
-      <p> <font color="white"> ej008 --> </font> <a href="http://localhost/esneider/ej009.php"> <font color="white"> Ejercicios practica PHP.6 </font> </a> </p>
+      <p> <font color="white"> ej007 --> </font> <a href="http://localhost/esneider/layout.php?ejercicio=ej007"> <font color="white"> Ej008.php hacer una suma de numeros  </font> </a> </p>
       <hr>
-      <p> <font color="white"> ej007 --> </font> <a href="http://localhost/esneider/ej007.php"> <font color="white"> Ejercicios practica PHP.5 </font> </a> </p>
+      <p> <font color="white"> ej006 --> </font> <a href="http://localhost/esneider/layout.php?ejercicio=ej007"> <font color="white"> Ej007.php sacaren pantalla una serie de bucles </font> </a> </p>
       <hr>
-      <p> <font color="white"> ej006 --> </font> <a href="http://localhost/esneider/ej007.php"> <font color="white"> Ejercicios practica PHP.4 </font> </a> </p>
+      <p> <font color="white"> ej005 --> </font> <a href="http://localhost/esneider/layout.php?ejercicio=ej006"> <font color="white"> Ej006.php saca por pantalla nombres, cuenta esnumero de caracteres que tiene una linea, saca por pantalla la fruta que esta en segundo lugar, o la lista de grutas, y puede sacar la extencion por ejemplo de una imagen "jpg" </font> </a> </p>
       <hr>
-      <p> <font color="white"> ej005 --> </font> <a href="http://localhost/esneider/ej006.php"> <font color="white"> Ejercicios practica PHP.3 </font> </a> </p>
+      <p> <font color="white"> ej004 --> </font> <a href="http://localhost/esneider/layout.php?ejercicio=ej005"> <font color="white"> Ej005.php sacar por pantalla el nombre y la edad, y realizar unas operaciones de sumay multiplicación </font> </a> </p>
       <hr>
-      <p> <font color="white"> ej004 --> </font> <a href="http://localhost/esneider/ej005.php"> <font color="white"> Ejercicios practica PHP.2 </font> </a> </p>
+      <p> <font color="white"> ej003 --> </font> <a href="http://localhost/esneider/layout.php?ejercicio=ej004"> <font color="white"> Ej004.php con la crearcion en "php" del nombre "Esneider" podemos sacar por pantalla en "html" el nombre </font> </a> </p>
       <hr>
-      <p> <font color="white"> ej003 --> </font> <a href="http://localhost/esneider/ej004.php"> <font color="white"> Ejercicios de practicade PHP </font> </a> </p>
+      <p> <font color="white"> ej002 --> </font> <a href="http://localhost/esneider/layout.php?ejercicio=ej003"> <font color="white"> Ej003.php haciendo un blucle que muestre por pantalla los numeros del "0 al 30", los menores de 10 tendran un "0" delante </font> </a> </p>
       <hr>
-      <p> <font color="white"> ej002 --> </font> <a href="http://localhost/esneider/ej003.php"> <font color="white"> Bucle 0..30 </font> </a> </p>
-      <hr>
-      <p> <font color="white"> ej001 --> </font> <a href="http://localhost/esneider/ej001.php"> <font color="white"> Formulario </font> </a> </p>
+      <p> <font color="white"> ej001 --> </font> <a href="http://localhost/esneider/layout.php?ejercicio=ej001"> <font color="white"> Ej001.php uso del "form" y "table" para crear un pequeño formulario </font> </a> </p>
       <hr>
       <p> <font color="white"> eclipse --> </font>  <a href="http://localhost/esneider/ejeclipse.php"> <font color="white"> ejeclipse </font> </a> </p>
       <hr>
-      <p> <font color="white"> ej000 --> </font>  <a href="http://localhost/esneider/ej000.php"> <font color="white"> Prueba </font> </a> </p>
+      <p> <font color="white"> ej000 --> </font>  <a href="http://localhost/esneider/layout.php?ejercicio=ej000"> <font color="white"> Ej000.php prueba de "table" poniendo imagen de fonfo y un recuadro amarillo detras de la información
+ </font> </a> </p>
       <hr>
     </body>
 </html>

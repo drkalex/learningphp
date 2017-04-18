@@ -1,9 +1,11 @@
 <?php
 class Student {
-    // constructor frlsfunvion publica
-    public function __construct($nombre, $apellido) {
+    // constructor frlsfuntion publica
+    public function __construct($nombre, $apellido, $apellidos) {
         $this->first_name = $nombre;
         $this->last_name = $apellido;
+        $this->lasst_name = $apellidos;
+
     }
 
     // para uso externo
@@ -13,15 +15,12 @@ class Student {
 
     // para uso interno
     private function full_name() {
-        return $this->first_name . " " . $this->last_name;
+        return $this->first_name . " " . $this->last_name ." " . $this->lasst_name;
     }
 }
 
-$alex = new Student("Alexander", "Salazar");
+$alex = new Student("Alexander", "Salazar", "Campoverde");
 
 $alex->say_name();
-
-// echo $alex->full_name();
-
 
 ?>
