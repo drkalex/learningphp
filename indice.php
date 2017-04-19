@@ -8,9 +8,11 @@
 
       <p> <font color="white"> Portada  --> </font> <img src="cs_bg_champions.png" height="150" width="200">
       <hr>
-      <p> <font color="white"> ej020--> </font> <a href="http://localhost/esneider/layout.php?ejercicio=ej021Get1 practica PHP.19"> <font color="white"> Ejercicios practica PHP.19 </font> </a> </p>
+      <p> <font color="white"> ej021--> </font> <a href="http://localhost/esneider/layout.php?ejercicio=formulario.html"> <font color="white"> Formulario.html creacion de un formulario en el cual quiero escribir lo que voy haciendo los dias de practica </font>
       <hr>
-      <p> <font color="white"> ej019 --> </font> <a href="http://localhost/esneider/layout.php?ejercicio=ej020.html"> <font color="white"> Ejercicios practica PHP.18 </font> </a> </p>
+      <p> <font color="white"> ej020--> </font> <a href="http://localhost/esneider/layout.php?ejercicio=ej021Get1"> <font color="white"> Ej021Get1.php donde ponemos los comandos para realizar la operacion y sacar por pantalla el resultado del ej020.html </font> </a> </p>
+      <hr>
+      <p> <font color="white"> ej019 --> </font> <a href="http://localhost/esneider/layout.php?ejercicio=ej020.html"> <font color="white"> Ej020.html creamos un formulario en el cual escribes unos valores y el los calcula y saca por pantalla el resultado </font> </a> </p>
       <hr>
       <p> <font color="white"> ej018 --> </font> <a href="http://localhost/esneider/layout.php?ejercicio=ej019"> <font color="white"> Ej019.php sacar pòr pantalla el contenido del ejercicio ej017.php con otro comando distinto </font> </a> </p>
       <hr>

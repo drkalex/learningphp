@@ -1,0 +1,22 @@
+<html>
+<head>
+  <title> Formulario de Jornadas </title>
+</head>
+<body>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <form method="post" action="formulario.php">
+    <p> Nuevo Día </p>
+    <br/>
+     Fecha : <input type="date" name="Fecha" step="1" min="2017-04-18" max="2017-06-12" value="2017-04-19">
+     <br/><br/>
+     Tutor  <select name="tutor">
+                    <option value="Raul Tierno"> Raul Tierno </option>
+                    <option value=" Maria Jesus "> Maria Jesus </option>
+                   </select>
+     <br/><br/>
+     Información  <textarea  name="info" rows="5" cols="15"></textarea>
+     <br/><br/>
+    <input value="Guardar" type="submit" />
+  </form>
+</body>
+</html>
